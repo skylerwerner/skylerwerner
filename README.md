@@ -1,3 +1,5 @@
+## About Me
+
 Team lead and sole developer for the 3d Network Battalion
 Vulnerability Remediation Team for Leidos, based in Japan. I write
 all the code, manage the database, and design the internal tooling
@@ -23,7 +25,7 @@ the stack. What I aim for, regardless of tech or platform: tools an operator
 can use without training, output that reads at a glance, and
 reusable building blocks so the next automation is easier to write.
 
-### Featured
+### Featured Project
 
 **[enterprise-patch-toolkit](https://github.com/skylerwerner/enterprise-patch-toolkit)**
 -- Sanitized copy of a PowerShell 5.1 toolkit I built and maintain
