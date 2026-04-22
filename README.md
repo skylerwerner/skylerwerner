@@ -1,5 +1,3 @@
-## Hi, I'm Skyler Werner
-
 Team lead and sole developer for the 3d Network Battalion
 Vulnerability Remediation Team for Leidos, based in Japan. I write
 all the code, manage the database, and design the internal tooling
@@ -19,7 +17,7 @@ about.
 
 Automation and integration across the Microsoft ecosystem. My
 production depth is in PowerShell (years of daily work; the
-featured project below is a visible example). Power Automate,
+featured project below is the visible example). Power Automate,
 Power Apps, Power BI, SharePoint, and Microsoft Access round out
 the stack. What I aim for, regardless of tech or platform: tools an operator
 can use without training, output that reads at a glance, and
@@ -48,8 +46,4 @@ SharePoint &middot; PowerShell 5.1 / 7 &middot; Microsoft Access
 
 Claude Code is a daily collaborator. I make the architecture and
 design calls. Claude handles a lot of the drafting, refactoring,
-and documentation polish for the featured project.
-
-### Contact
-
-skyler.werner@gmail.com
+and documentation polish.
