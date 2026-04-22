@@ -48,7 +48,7 @@ SharePoint &middot; PowerShell 5.1 / 7 &middot; Microsoft Access
 
 Claude Code is a daily collaborator. I make the architecture and
 design calls. Claude handles a lot of the drafting, refactoring,
-and documentation polish for the featured project.
+and documentation polish.
 
 ### Contact
 
